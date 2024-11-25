@@ -22,6 +22,8 @@ int main() {
     }
 
     // Imprime o estado final das lâmpadas
+    printf("A lâmpada A está: %.2lf\n", A);
+    printf("A lâmpada B está: %.2lf\n", B);
     printf("%d\n", A); // Estado final da lâmpada A
     printf("%d\n", B); // Estado final da lâmpada B
 
